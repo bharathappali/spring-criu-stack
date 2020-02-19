@@ -1,3 +1,7 @@
+#The base of this repo is a taken from https://github.com/appsody/stacks/tree/master/incubator/java-spring-boot2
+
+Files in it are changed to support CRIU for java spring boot stack. 
+
 # Spring® Boot 2 Stack
 
 The Spring Boot 2 stack supports the development of [Spring Boot 2](https://spring.io/projects/spring-boot) applications using OpenJDK 8 and OpenJ9 from [AdoptOpenJDK](https://adoptopenjdk.net/).
